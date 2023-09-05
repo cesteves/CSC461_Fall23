@@ -51,23 +51,26 @@ Discussions with peers to gain more insights on coursework and lectures is stron
 Any student with a documented disability is welcome to contact me as early in the semester as possible, so that we may arrange reasonable accommodations. As part of this process, please be in touch with [Disability, Access, and Inclusion Office](https://web.uri.edu/disability/).
 
 # Tentative Schedule
-| Week <img width=45/> | Topic | Req. Reading | Materials |
-| --- | --- | --- | --- |
-| 1 (Sep 3rd) | Introduction to CSC 461, The Badges Game | [Google's Python Class](https://developers.google.com/edu/python) <br /> [Linear Algebra Lecture](link) | [Lecture Slides](link) <br /> [Colab Notebook](link)  |
-| 2 (Sep 1th) | Introduction to Machine Learning <br /> Unsupervised Learning, Clustering, K-Means | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) <br /> [Section 22.2 from UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) | [Lecture Slides](link) <br /> [Lecture Slides](link) <br /> [Colab Notebook](link) |
-| 3 (Sep 17th) | Hierarchical Clustering <br /> Principal Component Analysis | [Section 12.4 from ISL](https://www.statlearning.com/) <br /> [Section 12.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Slides](link) <br /> [Lecture Slides](link) <br /> [Colab Notebook](link) |
-| 4 (Sep 24th) | Introduction to Supervised Learning | [Cornell Lecture Notes](https://www.cs.cornell.edu/courses/cs4780/2021fa/lectures/lecturenote01_MLsetup.html) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
-| 5 (Oct 1st) | Linear Regression | [Stanford's CS229 Lecture Notes](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
-| 6 (Oct 8th) | 1 | 30% | a |
-| 7 (Oct 15th) | 1 | 30% | a |
-| 8 (Oct 22nd) | 1 | 30% | a |
-| 9 (Oct 29th) | 1 | 30% | a |
-| 10 (Nov 5th) | 1 | 30% | a |
-| 11 (Nov 12th) | 1 | 30% | a |
-| 12 (Nov 19th) | 1 | 30% | a |
-| 13 (Nov 26th) | 1 | 30% | a |
-| 14 (Nov 3rd) | 1 | 30% | a |
-| 15 (Dec 10th) | 1 | 30% | a |
+| Topic | Required Reading | Materials |
+| --- | --- | --- |
+| Introduction to CSC 461 | [Google's Python Class](https://developers.google.com/edu/python) <br /> [Linear Algebra Lecture](link) | [Lecture Slides](link) <br /> [Colab Notebook](link)  |
+| Introduction to Machine Learning  | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) <br /> | [Lecture Slides](link) <br /> |
+| Unsupervised Learning, Clustering, K-Means | [Section 22.2 from UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
+| Hierarchical Clustering | [Section 12.4 from ISL](https://www.statlearning.com/) | [Lecture Slides](link) |
+| Principal Component Analysis | [Section 12.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
+| Introduction to Supervised Learning | [Cornell Lecture Notes](https://www.cs.cornell.edu/courses/cs4780/2021fa/lectures/lecturenote01_MLsetup.html) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
+| Linear Regression | [Stanford's CS229 Lecture Notes](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
+| Nonlinear Features, Overfitting, Regularization, Model Selection | [Section 1.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) <br /> [Practical Issues](http://ciml.info/dl/v0_99/ciml-v0_99-ch05.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
+| Gradient Descent | [Chapter 6 from IDA](https://www.cs.utah.edu/~jeffp/IDABook/T6-GD.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
+| Feedback Session |  | [Lecture Notes](link) |
+| Linear Classifiers and Logistic Regression | [Sections 4.1, 4.2 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
+| Multinomial Logistic Regression | [Section 4.3 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](link) |
+| Evaluation and Model Selection, Perceptron |  | [Lecture Notes](link) |
+| Multilayer Perceptrons | [Chapter 6 from DL](https://www.deeplearningbook.org/contents/mlp.html) | [Lecture Notes](link) <br /> [Colab Notebook 1](link) <br /> [Colab Notebook 2](link) |
+| k-NN Classification | [Geometry and Nearest Neighbors](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) | [Lecture Notes](link) |
+| Decision Trees | [Decision Trees](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf) | [Lecture Notes](link) |
+| Bagging | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](link) |
+| Boosting | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](link) |
 
 # Assignments
 | Assignment | Due Date | Access |
