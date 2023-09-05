@@ -11,8 +11,8 @@ How do computer programs learn to read handwritten text directly from pictures? 
 
 # Office Hours
 **Christian**: By Appointment  
-**Guanhua**: TBD
-**Calvin**: TBD
+**Guanhua**: TBD  
+**Calvin**: TBD  
 
 # Recommended Textbooks
 - [A Course in Machine Learning](http://ciml.info/), Hal Daumee III
@@ -20,6 +20,9 @@ How do computer programs learn to read handwritten text directly from pictures? 
 - [Machine Learning: The Art and Science of Algorithms that Make Sense of Data](http://people.cs.bris.ac.uk/~flach/mlbook//), P. Flach
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/), C. Bishop
 - [Learning From Data](https://amlbook.com/), Y. S. Abu-Mostafa, M. Magdon-Ismail, H. T. Lin
+
+# Additional Resources
+View the collection provided by [Marco Alvarez](https://homepage.cs.uri.edu/~malvarez/teaching/csc-461/resources/#quick-reference-tools-and-visualizations)
 
 # Homework Assignments
 Homework assignments are individual work, unless stated otherwise in the assignment's instructions. Students will have roughly 7-10 days to work on each assignment. Each assignment has a specific due date/time listed on the course website. Late submissions will not be accepted. Students are strongly encouraged to bring their code or solutions to instructor's office hours prior to the due date.
@@ -46,3 +49,22 @@ Discussions with peers to gain more insights on coursework and lectures is stron
 
 # Disability Accommodations
 Any student with a documented disability is welcome to contact me as early in the semester as possible, so that we may arrange reasonable accommodations. As part of this process, please be in touch with [Disability, Access, and Inclusion Office](https://web.uri.edu/disability/).
+
+# Tentative Schedule
+| Week <img width=45/> | Topic | Req. Reading | Materials |
+| --- | --- | --- | --- |
+| 1 (Sep 3rd) | Introduction to CSC 461, The Badges Game | [Google's Python Class]([link](https://developers.google.com/edu/python)) [Linear Algebra Lecture](link) | [Lecture Slides](link) [Colab Notebook](link)  |
+| 2 (Sep 1th) | Introduction to Machine Learning | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) | [Lecture Slides](link) |
+| 3 (Sep 17th) | 1 | 20% | a |
+| 4 (Sep 24th) | 1 | 30% | a |
+| 5 (Oct 1st) | 1 | 30% | a |
+| 6 (Oct 8th) | 1 | 30% | a |
+| 7 (Oct 15th) | 1 | 30% | a |
+| 8 (Oct 22nd) | 1 | 30% | a |
+| 9 (Oct 29th) | 1 | 30% | a |
+| 10 (Nov 5th) | 1 | 30% | a |
+| 11 (Nov 12th) | 1 | 30% | a |
+| 12 (Nov 19th) | 1 | 30% | a |
+| 13 (Nov 26th) | 1 | 30% | a |
+| 14 (Nov 3rd) | 1 | 30% | a |
+| 15 (Dec 10th) | 1 | 30% | a |
