@@ -53,7 +53,7 @@ Any student with a documented disability is welcome to contact me as early in th
 # Tentative Schedule
 | Topic | Required Reading | Materials |
 | --- | --- | --- |
-| Introduction to CSC 461 | [Google's Python Class](https://developers.google.com/edu/python) <br /> [Linear Algebra Lecture](link) | [Lecture Slides](link) <br /> [Colab Notebook](link)  |
+| Introduction to CSC 461 | [Google's Python Class](https://developers.google.com/edu/python) <br /> [Linear Algebra Lecture](link) | [Lecture Slides](link) <br /> [Colab Notebook](https://drive.google.com/file/d/1S-2Q8D8iMjd8ZFzyq-kpqFdrHqI5A14l/view?usp=sharing)  |
 | Introduction to Machine Learning  | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) <br /> | [Lecture Slides](link) <br /> |
 | Unsupervised Learning, Clustering, K-Means | [Section 22.2 from UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
 | Hierarchical Clustering | [Section 12.4 from ISL](https://www.statlearning.com/) | [Lecture Slides](link) |
