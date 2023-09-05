@@ -54,10 +54,10 @@ Any student with a documented disability is welcome to contact me as early in th
 | Week <img width=45/> | Topic | Req. Reading | Materials |
 | --- | --- | --- | --- |
 | 1 (Sep 3rd) | Introduction to CSC 461, The Badges Game | [Google's Python Class](https://developers.google.com/edu/python) <br /> [Linear Algebra Lecture](link) | [Lecture Slides](link) <br /> [Colab Notebook](link)  |
-| 2 (Sep 1th) | Introduction to Machine Learning | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) | [Lecture Slides](link) |
-| 3 (Sep 17th) | 1 | 20% | a |
-| 4 (Sep 24th) | 1 | 30% | a |
-| 5 (Oct 1st) | 1 | 30% | a |
+| 2 (Sep 1th) | Introduction to Machine Learning <br /> Unsupervised Learning, Clustering, K-Means | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) <br /> [Section 22.2 from UML](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) | [Lecture Slides](link) <br /> [Lecture Slides](link) <br /> [Colab Notebook](link) |
+| 3 (Sep 17th) | Hierarchical Clustering <br /> Principal Component Analysis | [Section 12.4 from ISL](https://www.statlearning.com/) <br /> [Section 12.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Slides](link) <br /> [Lecture Slides](link) <br /> [Colab Notebook](link) |
+| 4 (Sep 24th) | Introduction to Supervised Learning | [Cornell Lecture Notes](https://www.cs.cornell.edu/courses/cs4780/2021fa/lectures/lecturenote01_MLsetup.html) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
+| 5 (Oct 1st) | Linear Regression | [Stanford's CS229 Lecture Notes](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
 | 6 (Oct 8th) | 1 | 30% | a |
 | 7 (Oct 15th) | 1 | 30% | a |
 | 8 (Oct 22nd) | 1 | 30% | a |
@@ -68,3 +68,13 @@ Any student with a documented disability is welcome to contact me as early in th
 | 13 (Nov 26th) | 1 | 30% | a |
 | 14 (Nov 3rd) | 1 | 30% | a |
 | 15 (Dec 10th) | 1 | 30% | a |
+
+# Assignments
+| Assignment | Due Date | Access |
+| --- | --- | --- |
+| Homework 1 | 9/22 | [Colab Notebook](https://drive.google.com/file/d/1uUd6RRP3eR3s0wf8vcQfTzz45jwFwvKn/view?usp=sharing) |
+| Homework 2 | TBD | [Colab Notebook]() |
+| Homework 3 | TBD | [Colab Notebook]() |
+| Homework 4 | TBD | [Colab Notebook]() |
+| Homework 5 | TBD | [Colab Notebook]() |
+| Homework 6 | TBD | [Colab Notebook]() |
