@@ -53,7 +53,7 @@ Any student with a documented disability is welcome to contact me as early in th
 # Tentative Schedule
 | Week <img width=45/> | Topic | Req. Reading | Materials |
 | --- | --- | --- | --- |
-| 1 (Sep 3rd) | Introduction to CSC 461, The Badges Game | [Google's Python Class]([link](https://developers.google.com/edu/python)) [Linear Algebra Lecture](link) | [Lecture Slides](link) [Colab Notebook](link)  |
+| 1 (Sep 3rd) | Introduction to CSC 461, The Badges Game | [Google's Python Class](https://developers.google.com/edu/python) <br /> [Linear Algebra Lecture](link) | [Lecture Slides](link) <br /> [Colab Notebook](link)  |
 | 2 (Sep 1th) | Introduction to Machine Learning | [Python NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/) | [Lecture Slides](link) |
 | 3 (Sep 17th) | 1 | 20% | a |
 | 4 (Sep 24th) | 1 | 30% | a |
