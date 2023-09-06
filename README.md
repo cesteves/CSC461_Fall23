@@ -59,7 +59,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | Hierarchical Clustering | [Section 12.4 from ISL](https://www.statlearning.com/) | [Lecture Slides](link) |
 | Principal Component Analysis | [Section 12.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
 | Introduction to Supervised Learning | [Cornell Lecture Notes](https://www.cs.cornell.edu/courses/cs4780/2021fa/lectures/lecturenote01_MLsetup.html) | [Lecture Slides](link) <br /> [Colab Notebook](link) |
-| Linear Regression | [Stanford's CS229 Lecture Notes](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
+| Linear Regression | [Stanford's CS229 Lecture Notes](https://drive.google.com/file/d/1jlZ7jSb4TqmifBumvEDwF9EwoN80xFQ3/view?usp=sharing) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
 | Nonlinear Features, Overfitting, Regularization, Model Selection | [Section 1.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) <br /> [Practical Issues](http://ciml.info/dl/v0_99/ciml-v0_99-ch05.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
 | Gradient Descent | [Chapter 6 from IDA](https://www.cs.utah.edu/~jeffp/IDABook/T6-GD.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
 | Feedback Session |  | [Lecture Notes](link) |
