@@ -11,8 +11,8 @@ How do computer programs learn to read handwritten text directly from pictures? 
 
 # Office Hours
 **Christian**: By Appointment  
-**Guanhua**: TBD  
-**Calvin**: TBD  
+**Guanhua**: T/Th 10:00am - 12:00pm [Via Zoom](https://uri-edu.zoom.us/j/8338647306)
+**Calvin**: T/Th 8:00 - 9:00am & 1:00 - 2:00pm  
 
 # Recommended Textbooks
 - [A Course in Machine Learning](http://ciml.info/), Hal Daumee III
