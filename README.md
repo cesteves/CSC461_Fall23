@@ -5,14 +5,14 @@ How do computer programs learn to read handwritten text directly from pictures? 
 # Course Info
 **Instructor**: Christian Esteves  
 **TAs**: Guanhua Wu, Calvin Higgins  
-**Lectures**: Monday & Wednesday 3:00 - 4:15 @ Bliss 290  
+**Lectures**: Monday & Wednesday 3:00 - 4:15 @ Bliss 290    
 **EdStem**: https://edstem.org/us/join/m3qBys  
 **Gradescope Entry Code**: K36B5K
 
 # Office Hours
 **Christian**: By Appointment  
-**Guanhua**: T/Th 10:00am - 12:00pm [Via Zoom](https://uri-edu.zoom.us/j/8338647306)
-**Calvin**: T/Th 8:00 - 9:00am & 1:00 - 2:00pm  
+**Guanhua**: T/Th 10:00am - 12:00pm [Via Zoom](https://uri-edu.zoom.us/j/8338647306)  
+**Calvin**: T/Th 8:00 - 9:00am & 1:00 - 2:00pm  Tyler Floor 0 Lobby
 
 # Recommended Textbooks
 - [A Course in Machine Learning](http://ciml.info/), Hal Daumee III
