@@ -60,7 +60,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | Principal Component Analysis | [Section 12.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Slides](https://drive.google.com/file/d/1fdWfTHkOsw-aAKw46VsLAlitk7j8Wxiy/view?usp=share_link) <br /> [Colab Notebook](https://drive.google.com/file/d/1UT7H78WKfWGunrYmbJx4a5ejzc7xUewi/view?usp=sharing) |
 | Introduction to Supervised Learning | [Cornell Lecture Notes](https://www.cs.cornell.edu/courses/cs4780/2021fa/lectures/lecturenote01_MLsetup.html) | [Lecture Slides](https://drive.google.com/file/d/1ikVSPhWUfJ6SXQDb_TNQDDEAAo5m4kZM/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1g_sORqwHy9w2JPrCFdfiCx6kvIGrdynu/view?usp=sharing) |
 | Linear Regression | [Stanford's CS229 Lecture Notes](https://drive.google.com/file/d/1jlZ7jSb4TqmifBumvEDwF9EwoN80xFQ3/view?usp=sharing) | [Lecture Notes](https://drive.google.com/file/d/1VcpPlPVQ-KrfigS1K32VktCe-OSxj1dT/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1ffjO8LTmDbYfChoT6jJyJpUu1d2eXubI/view?usp=sharing) |
-| Nonlinear Features, Overfitting, Regularization, Model Selection | [Section 1.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) <br /> [Practical Issues](http://ciml.info/dl/v0_99/ciml-v0_99-ch05.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
+| Nonlinear Features, Overfitting, Regularization, Model Selection | [Section 1.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) <br /> [Practical Issues](http://ciml.info/dl/v0_99/ciml-v0_99-ch05.pdf) | [Lecture Notes](https://drive.google.com/file/d/1IZSe4Z0GFEwHubDWzAVb-mA1c3TYmEPV/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1nhLaTrSpO4K-tNlZhjo64B7TBv53qld7/view?usp=sharing) |
 | Gradient Descent | [Chapter 6 from IDA](https://www.cs.utah.edu/~jeffp/IDABook/T6-GD.pdf) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
 | Feedback Session |  | [Lecture Notes](link) |
 | Linear Classifiers and Logistic Regression | [Sections 4.1, 4.2 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
@@ -76,7 +76,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | Assignment | Due Date | Access |
 | --- | --- | --- |
 | Homework 1 | 9/22 | [Colab Notebook](https://drive.google.com/file/d/1uUd6RRP3eR3s0wf8vcQfTzz45jwFwvKn/view?usp=sharing) |
-| Homework 2 | TBD | [Colab Notebook]() |
+| Homework 2 | 10/8 | [Colab Notebook](https://drive.google.com/file/d/1RqhmD49GIi7ROaN9LLVD6DrdvIGLhH9D/view?usp=sharing) |
 | Homework 3 | TBD | [Colab Notebook]() |
 | Homework 4 | TBD | [Colab Notebook]() |
 | Homework 5 | TBD | [Colab Notebook]() |
