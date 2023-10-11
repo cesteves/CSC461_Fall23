@@ -78,7 +78,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | --- | --- | --- |
 | Homework 1 | 9/22 | [Colab Notebook](https://drive.google.com/file/d/1uUd6RRP3eR3s0wf8vcQfTzz45jwFwvKn/view?usp=sharing) |
 | Homework 2 | 10/8 | [Colab Notebook](https://drive.google.com/file/d/1RqhmD49GIi7ROaN9LLVD6DrdvIGLhH9D/view?usp=sharing) |
-| Homework 3 | TBD | [Colab Notebook]() |
+| Homework 3 | 10/25 | [Colab Notebook](https://drive.google.com/file/d/1Eyg4frK5Nx0bP98PclxCy9xsjWpahhq4/view?usp=sharing) |
 | Homework 4 | TBD | [Colab Notebook]() |
 | Homework 5 | TBD | [Colab Notebook]() |
 | Homework 6 | TBD | [Colab Notebook]() |
