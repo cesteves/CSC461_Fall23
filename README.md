@@ -63,7 +63,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | Nonlinear Features, Overfitting, Regularization, Model Selection | [Section 1.1 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) <br /> [Practical Issues](http://ciml.info/dl/v0_99/ciml-v0_99-ch05.pdf) | [Lecture Notes](https://drive.google.com/file/d/1IZSe4Z0GFEwHubDWzAVb-mA1c3TYmEPV/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1nhLaTrSpO4K-tNlZhjo64B7TBv53qld7/view?usp=sharing) |
 | Gradient Descent | [Chapter 6 from IDA](https://www.cs.utah.edu/~jeffp/IDABook/T6-GD.pdf) | [Lecture Notes](https://drive.google.com/file/d/1OPGb91EyYf9HgIwhtob-QfXO0bdJbPJ_/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1hvyoypy8q6HrN1DQvrKde3ZD6mk65wn2/view?usp=sharing) |
 | Gradient Descent ML | | [Lecture Notes](https://drive.google.com/file/d/1stuKXJy1jUFqFIZs3T9IEeNQJkRZnnsC/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1SI2xk8lzCP9BJKCT_MS4RPoieQ8LpxA8/view?usp=sharing)
-| Feedback Session |  | [Lecture Notes](link) |
+| Feedback Session |  | [Lecture Notes](https://drive.google.com/file/d/11sM4yA8xRHJfLlwio4Ua21jjr-emFajn/view?usp=sharing) |
 | Linear Classifiers and Logistic Regression | [Sections 4.1, 4.2 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](link) <br /> [Colab Notebook](link) |
 | Multinomial Logistic Regression | [Section 4.3 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](link) |
 | Evaluation and Model Selection, Perceptron |  | [Lecture Notes](link) |
