@@ -65,7 +65,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | Gradient Descent ML | | [Lecture Notes](https://drive.google.com/file/d/1stuKXJy1jUFqFIZs3T9IEeNQJkRZnnsC/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/1SI2xk8lzCP9BJKCT_MS4RPoieQ8LpxA8/view?usp=sharing)
 | Feedback Session |  | [Lecture Notes](https://drive.google.com/file/d/11sM4yA8xRHJfLlwio4Ua21jjr-emFajn/view?usp=sharing) |
 | Linear Classifiers and Logistic Regression | [Sections 4.1, 4.2 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](https://drive.google.com/file/d/1nTi03yJVZFUyopG9wbsKGdyDCuqiNVl-/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/14XUpJygFY310gi-gTfkwqOzEab74VAYC/view?usp=sharing) |
-| Multinomial Logistic Regression | [Section 4.3 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](link) |
+| Multinomial Logistic Regression | [Section 4.3 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](https://drive.google.com/file/d/1s6nnCtFyw9_HHdOLnAB6H_MJ0wOCYEty/view?usp=sharing) |
 | Evaluation and Model Selection, Perceptron |  | [Lecture Notes](link) |
 | Multilayer Perceptrons | [Chapter 6 from DL](https://www.deeplearningbook.org/contents/mlp.html) | [Lecture Notes](link) <br /> [Colab Notebook 1](link) <br /> [Colab Notebook 2](link) |
 | k-NN Classification | [Geometry and Nearest Neighbors](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) | [Lecture Notes](link) |
