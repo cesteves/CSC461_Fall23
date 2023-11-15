@@ -66,7 +66,7 @@ Any student with a documented disability is welcome to contact me as early in th
 | Feedback Session |  | [Lecture Notes](https://drive.google.com/file/d/11sM4yA8xRHJfLlwio4Ua21jjr-emFajn/view?usp=sharing) |
 | Linear Classifiers and Logistic Regression | [Sections 4.1, 4.2 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](https://drive.google.com/file/d/1nTi03yJVZFUyopG9wbsKGdyDCuqiNVl-/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/14XUpJygFY310gi-gTfkwqOzEab74VAYC/view?usp=sharing) |
 | Multinomial Logistic Regression | [Section 4.3 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](https://drive.google.com/file/d/1s6nnCtFyw9_HHdOLnAB6H_MJ0wOCYEty/view?usp=sharing) |
-| Evaluation and Model Selection, Perceptron |  | [Lecture Notes](link) |
+| Evaluation and Model Selection, Perceptron |  | [Lecture Notes](https://drive.google.com/file/d/1zMv1wmRbxStLl9sgfD0FhdTjmCi6C7t3/view?usp=sharing) |
 | Multilayer Perceptrons | [Chapter 6 from DL](https://www.deeplearningbook.org/contents/mlp.html) | [Lecture Notes](link) <br /> [Colab Notebook 1](link) <br /> [Colab Notebook 2](link) |
 | k-NN Classification | [Geometry and Nearest Neighbors](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) | [Lecture Notes](link) |
 | Decision Trees | [Decision Trees](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf) | [Lecture Notes](link) |
