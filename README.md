@@ -67,9 +67,9 @@ Any student with a documented disability is welcome to contact me as early in th
 | Linear Classifiers and Logistic Regression | [Sections 4.1, 4.2 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](https://drive.google.com/file/d/1nTi03yJVZFUyopG9wbsKGdyDCuqiNVl-/view?usp=sharing) <br /> [Colab Notebook](https://drive.google.com/file/d/14XUpJygFY310gi-gTfkwqOzEab74VAYC/view?usp=sharing) |
 | Multinomial Logistic Regression | [Section 4.3 from PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) | [Lecture Notes](https://drive.google.com/file/d/1s6nnCtFyw9_HHdOLnAB6H_MJ0wOCYEty/view?usp=sharing) |
 | Evaluation and Model Selection, Perceptron |  | [Lecture Notes](https://drive.google.com/file/d/1zMv1wmRbxStLl9sgfD0FhdTjmCi6C7t3/view?usp=sharing) |
-| Multilayer Perceptrons | [Chapter 6 from DL](https://www.deeplearningbook.org/contents/mlp.html) | [Lecture Notes](https://drive.google.com/file/d/1p8ZX9NvQEZz3TpT_yPKXz-Z3S7qxy23t/view?usp=sharing) <br /> [Colab Notebook 1](link) <br /> [Colab Notebook 2](link) |
-| k-NN Classification | [Geometry and Nearest Neighbors](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) | [Lecture Notes](link) |
-| Decision Trees | [Decision Trees](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf) | [Lecture Notes](link) |
+| Multilayer Perceptrons | [Chapter 6 from DL](https://www.deeplearningbook.org/contents/mlp.html) | [Lecture Notes](https://drive.google.com/file/d/1p8ZX9NvQEZz3TpT_yPKXz-Z3S7qxy23t/view?usp=sharing) |
+| k-NN Classification | [Geometry and Nearest Neighbors](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) | [Lecture Notes](https://drive.google.com/file/d/1G3RT12U73AXyks7-JCWjQw-rZCQx2wOV/view?usp=sharing) |
+| Decision Trees | [Decision Trees](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf) | [Lecture Notes](https://drive.google.com/file/d/1xQOzULdnAKVZwoT1aesHeVK_sIFYzGG5/view?usp=sharing) |
 | Bagging | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](link) |
 | Boosting | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](link) |
 
@@ -79,6 +79,5 @@ Any student with a documented disability is welcome to contact me as early in th
 | Homework 1 | 9/22 | [Colab Notebook](https://drive.google.com/file/d/1uUd6RRP3eR3s0wf8vcQfTzz45jwFwvKn/view?usp=sharing) |
 | Homework 2 | 10/8 | [Colab Notebook](https://drive.google.com/file/d/1RqhmD49GIi7ROaN9LLVD6DrdvIGLhH9D/view?usp=sharing) |
 | Homework 3 | 10/25 | [Colab Notebook](https://drive.google.com/file/d/1Eyg4frK5Nx0bP98PclxCy9xsjWpahhq4/view?usp=sharing) |
-| Homework 4 | TBD | [Colab Notebook]() |
-| Homework 5 | TBD | [Colab Notebook]() |
-| Homework 6 | TBD | [Colab Notebook]() |
+| Homework 4 | N/A | [Colab Notebook]() |
+| Homework 5 | 12/11 | [Colab Notebook](https://drive.google.com/file/d/1wuvlPQdjk8cqqDUaFcVhHs9wC4cMLbMk/view?usp=sharing) |
