@@ -70,8 +70,8 @@ Any student with a documented disability is welcome to contact me as early in th
 | Multilayer Perceptrons | [Chapter 6 from DL](https://www.deeplearningbook.org/contents/mlp.html) | [Lecture Notes](https://drive.google.com/file/d/1p8ZX9NvQEZz3TpT_yPKXz-Z3S7qxy23t/view?usp=sharing) |
 | k-NN Classification | [Geometry and Nearest Neighbors](http://ciml.info/dl/v0_99/ciml-v0_99-ch03.pdf) | [Lecture Notes](https://drive.google.com/file/d/1G3RT12U73AXyks7-JCWjQw-rZCQx2wOV/view?usp=sharing) |
 | Decision Trees | [Decision Trees](http://ciml.info/dl/v0_99/ciml-v0_99-ch01.pdf) | [Lecture Notes](https://drive.google.com/file/d/1xQOzULdnAKVZwoT1aesHeVK_sIFYzGG5/view?usp=sharing) |
-| Bagging | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](link) |
-| Boosting | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](link) |
+| Bagging | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](https://drive.google.com/file/d/1ouJdCWsitaEo9PeI0awX1LLoUKpZrIRz/view?usp=sharing) |
+| Boosting | [Ensemble Methods](http://ciml.info/dl/v0_99/ciml-v0_99-ch13.pdf) | [Lecture Notes](https://drive.google.com/file/d/1EItmEuTwYx8PNruLGcqwBMEtpeEZIRiU/view?usp=sharing) |
 
 # Assignments
 | Assignment | Due Date | Access |
